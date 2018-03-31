@@ -1,2 +1,6 @@
-h1 {
+.added {
+  background-color: #ddd;
+  color: beige; }
+
+.addToWishlist {
   color: red; }
